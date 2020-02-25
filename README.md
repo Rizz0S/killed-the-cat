@@ -1,0 +1,1 @@
+A simple interface for asking questions. Modelled after the 36 questions website for the NY Times. The questions are far worse. Feel free to replace them with something better.
